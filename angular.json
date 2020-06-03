@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "phonebook"
+    }
+  },
+  "defaultProject": "phonebook",
+  "cli": {
+    "analytics": false
+  }
 }
